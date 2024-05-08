@@ -2,3 +2,4 @@ jenis makanan
 - nasi
 - buah
 - daging
+- sayur
