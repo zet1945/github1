@@ -1,0 +1,4 @@
+jenis makanan
+- nasi
+- buah
+- daging
